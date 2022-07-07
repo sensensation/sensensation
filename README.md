@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sensensation
 - 👀 I’m interested in python back-end coding
-- 🌱 I’m currently learning python 3.0, JS, js.node
+- 🌱 I’m currently learning python 3.0, PostgreSQL, Git
 - 🎓 Want to become a junior back-end developer
-- 💞️ I’m looking my first real programming job experience
+- 💞️ I’m looking for first real programming job experience
 - 📫 My email adress is gashnya_official@bk.ru
 
 <!---

@@ -1,8 +1,8 @@
 
-Python Junior Developer
-technologies: Python, PostgreSQL, Git, Django, Docker
-secondary: html, css, basics of JS
-contacts: gashnya_official@bk.ru
+- Python Junior Developer
+- technologies: Python, PostgreSQL, Git, Django, Docker
+- secondary: html, css, basics of JS
+- contacts: gashnya_official@bk.ru
 
 
 <!---

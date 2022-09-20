@@ -2,7 +2,7 @@
 - Python Junior Developer
 - technologies: Python 3.0, PostgreSQL, Git, Django 4, Docker
 - secondary: 5 html
-- contacts: gashnya_official@bk.ru
+- contacts: mr.rodionov.official@gmail.com
 
 
 <!---

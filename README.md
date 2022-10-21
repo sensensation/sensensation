@@ -1,6 +1,6 @@
 
 - Python Junior Developer
-- technologies: Python 3.0, PostgreSQL, Git, Django 4, Docker
+- technologies: Python 3.0, PostgreSQL, Git, Django 4
 - secondary: 5 html
 - contacts: mr.rodionov.official@gmail.com
 

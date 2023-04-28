@@ -7,6 +7,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=blue)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=2496ED)
+![GraphQL](https://img.shields.io/badge/-GraphQL-090909?style=for-the-badge&logo=GraphQL&logoColor=violet)
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=Pandas&logoColor=fff5ee)
 ###
 ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26)

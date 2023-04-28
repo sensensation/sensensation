@@ -1,7 +1,7 @@
 # Hi, I'm Python Backend developer
 
 ### Languages & technologies:
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=3776AB)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=FFFF00)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=2496ED)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-090909?style=for-the-badge&logo=GraphQL&logoColor=violet)
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=Pandas&logoColor=fff5ee)

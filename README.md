@@ -7,7 +7,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=Pandas&logoColor=fff5ee)
 
 ### Frameworks:
-![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=092E20)
+![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=DarkGreen)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=FastAPI&logoColor=blue)
 
 ### Databases:

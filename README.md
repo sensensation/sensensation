@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm a Python Backend Developer 👋</h1>
 <p align="center">
-  Building reliable async services, high-load data pipes, and clean APIs.
+  Building reliable async services, high-load data pipes, CI/CD and clean APIs.
 </p>
 
 <p align="center">
@@ -22,6 +22,8 @@
 ### ⚙️ Frameworks
 ![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=FastAPI&logoColor=00c7b7)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=006400)
+![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=Flask&logoColor=ffffff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=Vuedotjs&logoColor=42b883)
 
 ### 📦 Orchestration
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=2496ED)
@@ -44,6 +46,7 @@
 ![mypy](https://img.shields.io/badge/-mypy-090909?style=for-the-badge&logo=python&logoColor=3776AB)
 ![pytest](https://img.shields.io/badge/-pytest-090909?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
 ![Poetry](https://img.shields.io/badge/-Poetry-090909?style=for-the-badge&logo=poetry&logoColor=60A5FA)
+![uv](https://img.shields.io/badge/-uv%20(manager)-090909?style=for-the-badge)
 
 ### 🌐 Secondary
 ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26)

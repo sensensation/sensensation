@@ -17,7 +17,7 @@
 
 ### 🔧 Languages
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=FFFF00)
-![TypeScript](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
 
 ### ⚙️ Frameworks
 ![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=FastAPI&logoColor=00c7b7)
